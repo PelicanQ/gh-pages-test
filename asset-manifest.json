@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "3000/gh-pages-test/static/css/main.073c9b0a.css",
-    "main.js": "3000/gh-pages-test/static/js/main.156d3eab.js",
-    "static/js/787.fae02159.chunk.js": "3000/gh-pages-test/static/js/787.fae02159.chunk.js",
-    "index.html": "3000/gh-pages-test/index.html",
-    "main.073c9b0a.css.map": "3000/gh-pages-test/static/css/main.073c9b0a.css.map",
-    "main.156d3eab.js.map": "3000/gh-pages-test/static/js/main.156d3eab.js.map",
-    "787.fae02159.chunk.js.map": "3000/gh-pages-test/static/js/787.fae02159.chunk.js.map"
+    "main.css": "/gh-pages-test/static/css/main.073c9b0a.css",
+    "main.js": "/gh-pages-test/static/js/main.327cd72d.js",
+    "static/js/787.fae02159.chunk.js": "/gh-pages-test/static/js/787.fae02159.chunk.js",
+    "index.html": "/gh-pages-test/index.html",
+    "main.073c9b0a.css.map": "/gh-pages-test/static/css/main.073c9b0a.css.map",
+    "main.327cd72d.js.map": "/gh-pages-test/static/js/main.327cd72d.js.map",
+    "787.fae02159.chunk.js.map": "/gh-pages-test/static/js/787.fae02159.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.156d3eab.js"
+    "static/js/main.327cd72d.js"
   ]
 }
